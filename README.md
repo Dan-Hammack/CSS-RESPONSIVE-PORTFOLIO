@@ -1,7 +1,7 @@
 # HW-WEEK-2
 CSS and Bootstrap Homework: Responsive Portfolio
 
-![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/blob/[master]/Screen-Shot of Abou Me.png?raw=true)
+![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot of Abou Me.png?raw=true)
 
 
 
