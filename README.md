@@ -1,14 +1,20 @@
 # HW-WEEK-2
 CSS and Bootstrap Homework: Responsive Portfolio
 
-About Me
-!(Screen-Shot-About-Me.png)
 
-Contact
+![](Screen-Shot-About-Me.png)
+
+
 ![](Screen-Shot-Contact.png)
 
-Portfolio
+
 ![](Screen-Shot-Portfolio.png)
+
+After Week 2 I now have a better understanding of CSS and HTML.  I was given a task to create a portfolio page including a fully responsive layout with responsive images and nav bar.  I completed the task with the use of coloumns and rows on a grid system. below is the directions I was given to follow.
+
+
+
+
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
 
