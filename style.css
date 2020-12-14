@@ -9,7 +9,6 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
     font-weight: bold;
-    margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -30,9 +29,9 @@ a:hover {
 }
 
 a:active {
-    background-color: black;
-    color: black;
-    font-weight: bold;
+    background-color: yellow;
+    color: #000000;
+    text-decoration: bold;
 }
 
 .navbar-nav {
@@ -51,9 +50,9 @@ a:active {
 
 body {
     background-color: white;
-    padding: 10px;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
     background-image: url(https://cdn.shopify.com/s/files/1/1682/4231/articles/images_9_225x.jpg?v=1557391927);
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -71,12 +70,14 @@ h1 {
     background-color: white;
     margin-top: 60px;
     margin-bottom: 30px;
-    padding: 0px;
+    padding: 20px;
 }
 
 .img-thumbnail {
     background-color: #4aaaa5;
-    size: 100px;
+    width: 100%;
+    height: auto;
+    margin: 10px 20px 0px;
     float: left;
 }
 
@@ -88,26 +89,6 @@ h1 {
 
 form {
     margin: 20px;
-    padding: 20px;
-}
-
-#contact-form {
-    background-color: white;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 20px;
-}
-
-#button-color {
-    background-color: #4aaaa5;
-    color: white;
-}
-
-#portfolio-content {
-    background-color: white;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
     padding: 20px;
 }
 
