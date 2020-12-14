@@ -2,13 +2,13 @@
 CSS and Bootstrap Homework: Responsive Portfolio
 
 About Me
-(https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-About-Me.png?raw=true)
+!(Screen-Shot-About-Me.png)
 
 Contact
-![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-Contact.png?raw=true)
+![](Screen-Shot-Contact.png)
 
 Portfolio
-![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-Portfolio.png?raw=true)
+![](Screen-Shot-Portfolio.png)
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
 
