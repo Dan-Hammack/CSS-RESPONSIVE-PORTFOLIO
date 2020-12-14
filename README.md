@@ -2,7 +2,7 @@
 CSS and Bootstrap Homework: Responsive Portfolio
 
 About Me
-![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-About-Me.png?raw=true)
+(https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-About-Me.png?raw=true)
 
 Contact
 ![About-Me](https://github.com/[Dan-Hammack]/[CSS-RESPONSIVE-PORTFOLIO]/[master]/Screen-Shot-Contact.png?raw=true)
